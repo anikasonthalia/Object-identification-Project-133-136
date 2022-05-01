@@ -1,0 +1,18 @@
+#status
+{
+font-size: 18px;
+}
+.officeheading{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    margin: 0px;
+}
+canvas{
+    box-shadow: 10px 10px 10px white;
+    border: 5px solid white;
+    border-radius: 15px;
+}
+ body{
+     background-size: cover;
+ }
